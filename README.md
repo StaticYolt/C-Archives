@@ -38,3 +38,8 @@ Content inside these notebooks would contain the most relevant verified experime
 Q&A → Experiment → Verified Experiment → Jupyter Notebook
 
 Thanks for reading and I hope this platform helps on your coding adventure!
+
+## Standard
+C version is c17 and compiler is gcc -std=c11
+
+Not Standard is everything else
