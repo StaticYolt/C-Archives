@@ -1,4 +1,4 @@
-###Welcome to the C Archives, a dynamic and expansive community based library that works towards holding the knowledge of all the quirks and nuances of the C programming language.
+### Welcome to the C Archives, a dynamic and expansive community based library that works towards holding the knowledge of all the quirks and nuances of the C programming language.
 
 ## Rules
 
